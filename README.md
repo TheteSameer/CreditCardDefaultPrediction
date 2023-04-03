@@ -1,4 +1,5 @@
-# Credit-Card-Default-prediction
+# Credit Card Default Prediction
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter <img width="664" alt="image_19400_1_5042248765" src="https://user-images.githubusercontent.com/121742479/229417541-62236170-e834-4584-a0f6-d810f287772e.png"></a> </h3>
 # Problem Discription
 In recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants. At the same time, most cardholders, irrespective of their repayment ability, overused credit card for consumption and accumulated heavy credit and cash–card debts. The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders.
 # Dataset
